@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on **Python,Django, DRF, PostgreSQL**
 
-- 🌱 I’m currently learning **Some Front End technologies**
-
 - 👯 I’m looking to collaborate on **Django, DRF**
 
 - 👨‍💻 All of my projects are available at [github/fahadfoysal](https://github.com/fahadfoysal)
